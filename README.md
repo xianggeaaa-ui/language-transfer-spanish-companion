@@ -73,4 +73,4 @@ Found a typo? Open an issue with the lesson number and timestamp — fixes ship 
 
 ---
 
-*spanishline — one line at a time.* · Matt
+*spanishline — one line at a time.* 
