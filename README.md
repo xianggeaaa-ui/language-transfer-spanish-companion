@@ -4,6 +4,8 @@ Hand-proofread, timestamp-aligned Spanish **subtitles** for the **entire 90-less
 
 > Language Transfer's course is free but ships **without subtitles or a built-in player**, which is the single biggest blocker for self-learners. This project fixes that — subtitles for all 90 lessons are free, and the paid packs add the full tap-and-learn player set with the audio embedded.
 
+🌐 Live site (browse all 90 lessons & what each covers): https://xianggeaaa-ui.github.io/language-transfer-spanish-companion/
+
 ---
 
 ## ⬇ Download the Free pack (all 90 lessons)
