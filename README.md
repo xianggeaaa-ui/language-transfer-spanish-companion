@@ -40,18 +40,6 @@ Language Transfer Spanish Companion - Subtitles (L01-90)/
 
 ---
 
-## Want more? The paid packs
-
-| Tier | What you get | Price |
-|---|---|---|
-| **Free** (you are here) | All 90 lessons of `.srt` + `.lrc` + 5 interactive demo players + Booster sample | **$0** |
-| **Study Anywhere Pack** | 10 full interactive lessons (audio embedded) + complete subtitles + Booster sample + **the full set: all 90 interactive lessons as one download** | **$2.99** |
-| **Business Spanish Complete Pack** | Everything in Study Anywhere + full Business Booster (**1,222 sentences** with audio) + **Anki deck** (1,222 cards) + grammar notes | **$9.99** |
-
-The interactive players have the LT audio embedded (for offline personal study), so the paid packs ship as direct downloads from Ko-fi — including the complete set of all 90 lessons (one ZIP via Google Drive + OneDrive mirror; the password is inside your download).
-
-👉 **[ko-fi.com/spanishline](https://ko-fi.com/spanishline)**
-
 ## Support the project
 
 SpanishLine stays free for everyone who can't pay. If you'd like to say thanks:
